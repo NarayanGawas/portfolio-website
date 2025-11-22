@@ -41,7 +41,7 @@ const About = () => {
           </p>
           {/* resume button */}
           <a href="/new_resume(1).pdf"
-              download
+              
           target='_blank'
           rel='noopener noreferrer'
           className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
