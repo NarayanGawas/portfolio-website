@@ -40,7 +40,7 @@ const About = () => {
             efficient solutions.
           </p>
           {/* resume button */}
-          <a href="/new_resume(1).pdf"
+          <a href="/new_resume.pdf"
               
           target='_blank'
           rel='noopener noreferrer'
