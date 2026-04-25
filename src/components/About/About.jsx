@@ -19,9 +19,9 @@ const About = () => {
         </span>
      <Typewriter
     words={[
-      ' Fullstack Developer',
+      ' Full stack Developer',
       ' Java Developer',
-      ' UI/UX Designer',
+      ' Backend Developer',
       ' Coder',
     ]}
     loop={0}
