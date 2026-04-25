@@ -34,10 +34,10 @@ const About = () => {
       </h4>
       {/* About me para */}
       <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer. I build scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+           I am a passionate Java Developer with a strong foundation in object-oriented programming and backend development. I have hands-on experience with Java, Spring Boot, and MySQL, and have built small projects to apply my knowledge in real-world scenarios.
+
+I am eager to learn, grow, and contribute to building efficient and scalable applications while continuously improving my technical skills.
+
           </p>
           {/* resume button */}
           <a href="/new_resume.pdf"
